@@ -1,0 +1,6 @@
+framework module Pods_Evil_Insult {
+  umbrella header "Pods-Evil Insult-umbrella.h"
+
+  export *
+  module * { export * }
+}
