@@ -1,4 +1,4 @@
 language: objective-c
 xcode_project: EvilInsult.xcodeproj
 xcode_scheme: EvilInsultTests
-xcode_sdk: iphonesimulator10.0
+xcode_sdk: iphoneos
