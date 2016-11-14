@@ -1,4 +1,4 @@
 language: objective-c
-xcode_project: EvilInsult.xcodeproj
-xcode_scheme: EvilInsultTests
+xcode_project: Evil\ Insult.xcodeproj
+xcode_scheme: Evil\ InsultTests
 xcode_sdk: iphoneos
