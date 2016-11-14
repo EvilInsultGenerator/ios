@@ -53,4 +53,7 @@ Translations are hosted on [Transifex](https://www.transifex.com/evil-insult-gen
 
 ### Screenshots
 
-_TBD_
+![Start](https://cloud.githubusercontent.com/assets/23451834/20262845/5d9c6ba8-aa64-11e6-870c-25c28835d8ec.PNG)
+![Language Selector](https://cloud.githubusercontent.com/assets/23451834/20262846/5da602b2-aa64-11e6-9b97-35f42e8af32e.PNG)
+![Insult Sharing](https://cloud.githubusercontent.com/assets/23451834/20262846/5da602b2-aa64-11e6-9b97-35f42e8af32e.PNG)
+![Evil Insult Generator iPad](https://cloud.githubusercontent.com/assets/23451834/20263190/d2b13026-aa65-11e6-816c-9056adaa5f56.gif)
